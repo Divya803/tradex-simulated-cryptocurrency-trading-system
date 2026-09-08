@@ -10,7 +10,9 @@ TradeX allows users to practice cryptocurrency trading, explore market data, and
 
 - React JS
 - Node JS
+- Express JS
 - PostgreSQL
+- TypeORM
 
 ## Project Repositories
 
